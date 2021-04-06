@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+Array [
+  <label
+    htmlFor="name"
+  >
+    Enter Name:-
+  </label>,
+  <input
+    className="input-name-style"
+    data-testid="input"
+    id="name"
+    name="name"
+    type="text"
+    value=""
+  />,
+]
+`;
